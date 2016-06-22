@@ -1,0 +1,11 @@
+<?php
+
+define ('SCRIPT_DIR', './');
+
+define ('LINODE_API_KEY', '');
+
+define ('LINODE_DOMAIN_ID', '123456');
+
+define ('LINODE_RESOURCE_ID', '123456');
+
+?>

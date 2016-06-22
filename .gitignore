@@ -1,0 +1,8 @@
+.*.swp
+*.*~
+.DS_Store
+._*
+error.log
+environment.inc.php
+linode_dns-updater.esproj
+
